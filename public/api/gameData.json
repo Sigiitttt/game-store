@@ -1,0 +1,98 @@
+[
+  {
+    "_id": 1,
+    "title": "League of Legends",
+    "description": "Sebuah game MOBA populer dengan strategi tim yang intens.",
+    "price": 500000,
+    "discount": 0,
+    "rating": 4,
+    "img": "assets/images/game1.jpg",
+    "video": "mDYqT0_9VR4",
+    "category": "MOBA",
+    "active": true
+  },
+  {
+    "_id": 2,
+    "title": "God of War Ragnarök",
+    "description": "Petualangan Kratos dan Atreus menjelajahi Sembilan Alam.",
+    "price": 879000,
+    "discount": 0.2,
+    "rating": 5,
+    "img": "assets/images/game2.jpg",
+    "video": "hfJ4Km46A-0",
+    "category": "RPG",
+    "active": false
+  },
+  {
+    "_id": 3,
+    "title": "Elden Ring",
+    "description": "Game RPG dunia terbuka dengan tingkat kesulitan menantang.",
+    "price": 599000,
+    "discount": 0.15,
+    "rating": 5,
+    "img": "assets/images/game3.jpg",
+    "video": "E3Huy2cdiFg",
+    "category": "RPG",
+    "active": false
+  },
+  {
+    "_id": 4,
+    "title": "Forza Horizon 5",
+    "description": "Balapan mobil dunia terbuka dengan grafis memukau di Meksiko.",
+    "price": 699000,
+    "discount": 0,
+    "rating": 4,
+    "img": "assets/images/game4.jpg",
+    "video": "FYH9n37B7Yw",
+    "category": "Racing",
+    "active": false
+  },
+  {
+    "_id": 5,
+    "title": "The Last of Us Part I",
+    "description": "Kisah emosional Joel dan Ellie di dunia pasca-apokaliptik.",
+    "price": 879000,
+    "discount": 0.3,
+    "rating": 5,
+    "img": "assets/images/game5.jpg",
+    "video": "WxjeV10H1F0",
+    "category": "Action",
+    "active": false
+  },
+  {
+    "_id": 6,
+    "title": "Grand Theft Auto V",
+    "description": "Kehidupan kriminal di Los Santos yang penuh aksi.",
+    "price": 429000,
+    "discount": 0.5,
+    "rating": 4,
+    "img": "assets/images/game6.jpg",
+    "video": "QkkoHAzjnUs",
+    "category": "Action",
+    "active": false
+  },
+  {
+    "_id": 7,
+    "title": "Cyberpunk 2077",
+    "description": "Petualangan aksi dunia terbuka di Night City.",
+    "price": 699000,
+    "discount": 0.25,
+    "rating": 3,
+    "img": "assets/images/game7.jpg",
+    "video": "8X2kIfS6fb8",
+    "category": "RPG",
+    "active": false
+  },
+  {
+    "_id": 8,
+    "title": "Gran Turismo 7",
+    "description": "Simulator balap mobil nyata untuk para penggemar otomotif.",
+    "price": 1029000,
+    "discount": 0,
+    "rating": 4,
+    "img": "assets/images/game8.jpg",
+    "video": "1tBUsXIkG1A",
+    "category": "Racing",
+    "active": false
+  }
+]
