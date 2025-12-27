@@ -2,10 +2,9 @@
 
 PlayStore Web App adalah aplikasi web berbasis **React + Vite** yang menampilkan antarmuka navigasi dinamis dengan side menu interaktif. Proyek ini dirancang untuk melatih struktur komponen React, pengelolaan state, serta penggunaan Context API.
 
+link demo https://game-store-tau-henna.vercel.app/
+
 ---
-
-![alt text](image.png)
-
 
 ## ✨ Fitur Utama
 
@@ -59,5 +58,9 @@ src/
 
 >>>>>>> cc9189b2516acad038ba97cacc95518d2bfe8184
 =======
+
+```
+![alt text](image.png)
+
 ## **dibuat oleh sigitt**
->>>>>>> 0e09255bc4aa2caa4992d79504dc9dc02ac0f1de
+
