@@ -53,11 +53,6 @@ src/
 ├── App.jsx
 └── main.jsx
 =======
-# game-store
-<<<<<<< HEAD
-
->>>>>>> cc9189b2516acad038ba97cacc95518d2bfe8184
-=======
 
 ```
 ![alt text](image.png)
