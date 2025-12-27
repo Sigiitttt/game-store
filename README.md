@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎮 PlayStore Web App
 
 PlayStore Web App adalah aplikasi web berbasis **React + Vite** yang menampilkan antarmuka navigasi dinamis dengan side menu interaktif. Proyek ini dirancang untuk melatih struktur komponen React, pengelolaan state, serta penggunaan Context API.
@@ -56,4 +55,4 @@ src/
 └── main.jsx
 =======
 # game-store
->>>>>>> cc9189b2516acad038ba97cacc95518d2bfe8184
+## **dibuat oleh sigitt**
