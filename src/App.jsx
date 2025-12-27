@@ -35,7 +35,8 @@ function App() {
   };
 
   const fetchData = () => {
-    fetch('http://localhost:5173/api/gameData.json')
+    // fetch('http://localhost:5173/api/gameData.json')
+    fetch('/api/gameData.json')
       .then(res => res.json())
       .then(data => setGames(data))
       .catch(e => console.log(e.message));
